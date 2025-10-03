@@ -1,7 +1,7 @@
 # Git Tutorial
 git clone -clone the repo from remote to local
 <br>
-git ststus-show the ststus of code
+git status-show the ststus of code
 <br>
 git add- add the modified codes
 <br>
