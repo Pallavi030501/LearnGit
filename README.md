@@ -1,3 +1,1 @@
-# LearnGit
-Learning Git
-Git Tutorial
+# Git Tutorial
